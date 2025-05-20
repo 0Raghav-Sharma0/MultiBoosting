@@ -1,3 +1,2 @@
 /node_modules/
 # Ignore uploaded videos
-multi-boost-backend/uploads/*.mp4
